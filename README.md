@@ -22,10 +22,7 @@ I value clean structure, clear logic, and maintainable code.
 ---
  ⚒Tools
  
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   
 ---
 
@@ -83,6 +80,7 @@ A full-stack desktop application built with C# and Telerik UI for managing a lib
 - GitHub: https://github.com/AmirAbbas-Shahravi
 - discord amir_abbas_gx
 
-- my bro:
-- [![Badge Text](https://avatars.githubusercontent.com/u/202189785?v=4)](https://github.com/zorochan32)
+---
+
+- my bro: [![Badge Text](https://avatars.githubusercontent.com/u/202189785?v=4)](https://github.com/zorochan32)
 
