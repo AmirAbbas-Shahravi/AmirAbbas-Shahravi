@@ -5,7 +5,7 @@
 
 <p align="center">
 💻 Junior Software Developer | C# & Python  
-🎮 Gamer | 🎬 Video Editor | 📦 Software Developer
+| 🎮 Gamer | 🎬 Video Editor | 📦 Software Developer
 </p>
 
 
