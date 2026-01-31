@@ -7,9 +7,9 @@
 
 ## 🚀 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/zorochan32?style=social)
-![GitHub stars](https://img.shields.io/github/stars/zorochan32?style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/zorochan32/KeyBordKeyBlocker-With-out-Run-as-Admin-?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/AmirAbbas-Shahravi?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AmirAbbas-Shahravi?style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/AmirAbbas-Shahravi/KeyBordKeyBlocker-With-out-Run-as-Admin-?style=flat-square)
 
 ---
 ## 🚀 About Me
@@ -22,7 +22,8 @@ I value clean structure, clear logic, and maintainable code.
 ---
  ⚒Tools
  
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/AmirAbbas-Shahravi) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/AmirAbbas-Shahravi) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/AmirAbbas-Shahravi)
+
   
 ---
 
@@ -82,5 +83,6 @@ A full-stack desktop application built with C# and Telerik UI for managing a lib
 
 ---
 
-- my bro: [![Badge Text](https://avatars.githubusercontent.com/u/202189785?v=4)](https://github.com/zorochan32)
+
+- my bro:  [![Badge Text](https://avatars.githubusercontent.com/u/202189785?v=4)](https://github.com/zorochan32)
 
